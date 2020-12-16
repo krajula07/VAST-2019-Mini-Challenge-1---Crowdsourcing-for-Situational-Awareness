@@ -1,0 +1,610 @@
+{
+  "type": "Topology",
+  "arcs": [
+    [
+      [312, 968],
+      [-52, 0],
+      [4, -97]
+    ],
+    [
+      [264, 871],
+      [-66, -22],
+      [-66, -154],
+      [-79, 7],
+      [11, 62],
+      [46, 11],
+      [18, 84],
+      [-39, 67],
+      [-89, 7],
+      [0, 29],
+      [63, 5],
+      [-19, 37],
+      [-25, 104],
+      [20, 49],
+      [49, 40],
+      [46, 20],
+      [54, 28],
+      [42, 10],
+      [58, -5],
+      [24, 2]
+    ],
+    [
+      [312, 1252],
+      [0, -284]
+    ],
+    [
+      [312, 1252],
+      [20, 16],
+      [34, -5],
+      [0, -32],
+      [49, 9],
+      [18, 17],
+      [30, 7],
+      [64, 12],
+      [25, -21],
+      [36, 6],
+      [45, 11]
+    ],
+    [
+      [633, 1272],
+      [7, -13],
+      [9, -19]
+    ],
+    [
+      [649, 1240],
+      [3, -191]
+    ],
+    [
+      [652, 1049],
+      [-8, 1]
+    ],
+    [
+      [644, 1050],
+      [-47, -6],
+      [-20, 5]
+    ],
+    [
+      [577, 1049],
+      [-52, 11],
+      [-53, 0],
+      [-22, -30],
+      [-3, -27]
+    ],
+    [
+      [447, 1003],
+      [-14, -19],
+      [-9, -14]
+    ],
+    [
+      [424, 970],
+      [-23, -13],
+      [-18, 0]
+    ],
+    [
+      [383, 957],
+      [-71, 4],
+      [0, 7]
+    ],
+    [
+      [633, 1272],
+      [0, 63],
+      [38, 28],
+      [52, 0],
+      [58, 37],
+      [95, 35],
+      [4, -82],
+      [26, -13],
+      [58, 22],
+      [35, -45],
+      [36, -60],
+      [37, 4],
+      [-6, 44],
+      [-26, 28],
+      [15, 33],
+      [-6, 40],
+      [104, 6],
+      [2, -45],
+      [24, -26]
+    ],
+    [
+      [1179, 1341],
+      [6, -11],
+      [-45, -140],
+      [-9, -51],
+      [-38, -50],
+      [-34, -57]
+    ],
+    [
+      [1059, 1032],
+      [-102, 0],
+      [-50, -15],
+      [-19, -1],
+      [-37, 11],
+      [-58, 0],
+      [-49, 16]
+    ],
+    [
+      [744, 1043],
+      [-44, -5]
+    ],
+    [
+      [700, 1038],
+      [-48, 11]
+    ],
+    [
+      [649, 1240],
+      [-16, 32]
+    ],
+    [
+      [1179, 1341],
+      [15, 32],
+      [17, -4],
+      [10, -44],
+      [109, -119],
+      [-24, -14],
+      [13, -16],
+      [55, 9],
+      [73, 66],
+      [16, -17],
+      [-48, -62],
+      [39, -36],
+      [-30, -18],
+      [46, -61],
+      [1, -63],
+      [-5, -21],
+      [22, -36],
+      [17, -36],
+      [62, -16],
+      [-38, -28],
+      [0, -15]
+    ],
+    [
+      [1529, 842],
+      [-57, -15]
+    ],
+    [
+      [1472, 827],
+      [-506, 4]
+    ],
+    [
+      [966, 831],
+      [1, 88],
+      [50, 49],
+      [42, 64]
+    ],
+    [
+      [383, 957],
+      [-1, -122],
+      [24, 0],
+      [1, -71],
+      [168, 1]
+    ],
+    [
+      [575, 765],
+      [1, -10]
+    ],
+    [
+      [576, 755],
+      [40, -40],
+      [83, -88],
+      [40, -59]
+    ],
+    [
+      [739, 568],
+      [45, -50]
+    ],
+    [
+      [784, 518],
+      [6, -21],
+      [-32, -1]
+    ],
+    [
+      [758, 496],
+      [-120, 18],
+      [-124, 66],
+      [-67, 12],
+      [-153, 105],
+      [-31, 74],
+      [20, 99],
+      [-19, 1]
+    ],
+    [
+      [424, 970],
+      [23, 33]
+    ],
+    [
+      [577, 1049],
+      [-2, -284]
+    ],
+    [
+      [1904, 300],
+      [-124, 0]
+    ],
+    [
+      [1780, 300],
+      [-3, 552],
+      [92, 55],
+      [35, -20],
+      [0, -587]
+    ],
+    [
+      [1904, 300],
+      [0, -39],
+      [-233, -65],
+      [-409, -168]
+    ],
+    [
+      [1262, 28],
+      [-20, 19],
+      [1, 51]
+    ],
+    [
+      [1243, 98],
+      [69, 0],
+      [58, 44],
+      [31, 15],
+      [32, 0]
+    ],
+    [
+      [1433, 157],
+      [239, 125]
+    ],
+    [
+      [1672, 282],
+      [24, -2],
+      [-1, 19],
+      [16, 25],
+      [69, 1]
+    ],
+    [
+      [1780, 325],
+      [0, -25]
+    ],
+    [
+      [1262, 28],
+      [-15, -24],
+      [-79, -4],
+      [-105, 50],
+      [-86, 19],
+      [-28, 32],
+      [-31, 93],
+      [-100, 90],
+      [-70, 38],
+      [18, 42],
+      [4, 58],
+      [-9, 34]
+    ],
+    [
+      [761, 456],
+      [25, 9],
+      [184, -3],
+      [0, -63]
+    ],
+    [
+      [970, 399],
+      [371, -1]
+    ],
+    [
+      [1341, 398],
+      [-4, -157],
+      [-14, -14]
+    ],
+    [
+      [1323, 227],
+      [-37, -12],
+      [-26, -8]
+    ],
+    [
+      [1260, 207],
+      [-14, -14],
+      [-3, -95]
+    ],
+    [
+      [1341, 398],
+      [-5, 90],
+      [149, -2]
+    ],
+    [
+      [1485, 486],
+      [4, -300]
+    ],
+    [
+      [1489, 186],
+      [-56, -29]
+    ],
+    [
+      [1260, 207],
+      [63, 20]
+    ],
+    [
+      [1485, 486],
+      [294, 1]
+    ],
+    [
+      [1779, 487],
+      [1, -162]
+    ],
+    [
+      [1672, 282],
+      [-183, -96]
+    ],
+    [
+      [1485, 486],
+      [-4, 292],
+      [-41, 49]
+    ],
+    [
+      [1440, 827],
+      [32, 0]
+    ],
+    [
+      [1529, 842],
+      [17, -16],
+      [102, -100],
+      [72, -15],
+      [30, 24],
+      [0, 50],
+      [28, 33],
+      [1, -331]
+    ],
+    [
+      [1341, 398],
+      [-203, 1]
+    ],
+    [
+      [1138, 399],
+      [1, 42],
+      [9, 9],
+      [26, 1],
+      [17, 13]
+    ],
+    [
+      [1191, 464],
+      [-3, 204]
+    ],
+    [
+      [1188, 668],
+      [44, 67],
+      [1, 94]
+    ],
+    [
+      [1233, 829],
+      [207, -2]
+    ],
+    [
+      [966, 831],
+      [-219, 0]
+    ],
+    [
+      [747, 831],
+      [-1, 192],
+      [-2, 20]
+    ],
+    [
+      [747, 831],
+      [-171, 2]
+    ],
+    [
+      [576, 833],
+      [1, 216]
+    ],
+    [
+      [644, 1050],
+      [56, -12]
+    ],
+    [
+      [747, 831],
+      [-2, -269]
+    ],
+    [
+      [745, 562],
+      [-6, 6]
+    ],
+    [
+      [576, 755],
+      [0, 78]
+    ],
+    [
+      [784, 518],
+      [-16, 17]
+    ],
+    [
+      [768, 535],
+      [219, 0]
+    ],
+    [
+      [987, 535],
+      [65, 39],
+      [95, 24],
+      [14, -14],
+      [28, -1]
+    ],
+    [
+      [1189, 583],
+      [2, -119]
+    ],
+    [
+      [1138, 399],
+      [-168, 0]
+    ],
+    [
+      [761, 456],
+      [-18, 42],
+      [15, -2]
+    ],
+    [
+      [964, 535],
+      [2, 296]
+    ],
+    [
+      [966, 831],
+      [267, -2]
+    ],
+    [
+      [1188, 668],
+      [1, -85]
+    ],
+    [
+      [987, 535],
+      [-23, 0]
+    ],
+    [
+      [964, 535],
+      [-196, 0]
+    ],
+    [
+      [768, 535],
+      [-23, 27]
+    ]
+  ],
+  "transform": {
+    "scale": [0.00013742023947980791, 0.0001497049218291351],
+    "translate": [-119.98288264735908, 0.008531665074331722]
+  },
+  "objects": {
+    "StHimark": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [[0, 1, 2]],
+          "type": "Polygon",
+          "properties": { "Id": 1, "Nbrhood": "Palace Hills",  "Events": "Bridge repair - Delays expected",
+          "Constructions": "Friday Bridge, Magritte bridge, Himark General Hospital", 
+          "Bridge":"Friday Bridge, Magritte bridge",
+          "Hospital": "Himark General Hospital"}
+        },
+        {
+          "arcs": [[-3, 3, 4, 5, 6, 7, 8, 9, 10, 11]],
+          "type": "Polygon",
+          "properties": { "Id": 2, "Nbrhood": "Northwest",  "Events": "",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[12, 13, 14, 15, 16, -6, 17]],
+          "type": "Polygon",
+          "properties": { "Id": 3, "Nbrhood": "Old Town", "Events": "Water-and-sewer maintenance, Power outages lasting 30-60 minutes",
+            "Constructions": "Jade bridge, Public School, Old Town Hospital",
+            "Bridge":"Jade bridge",
+            "Hospital": "Old Town Hospital",
+            "School": "Public School"
+          }
+        },
+        {
+          "arcs": [[18, 19, 20, 21, -14]],
+          "type": "Polygon",
+          "properties": { "Id": 4, "Nbrhood": "Safe Town","Events": "Bridge repair - Delays expected",
+          "Constructions": "Always Safe nuclear power plant, Jade bridge,  12th of July Bridge",
+          "Bridge": "Jade bridge,  12th of July Bridge",
+          "Powerplant": "Always Safe Nuclear power plant"
+          }
+        },
+        {
+          "arcs": [[-1, -12, 22, 23, 24, 25, 26, 27]],
+          "type": "Polygon",
+          "properties": { "Id": 5, "Nbrhood": "Southwest" , "Events": "Intermittent power outages.",
+            "Constructions": ""}
+        },
+        {
+          "arcs": [[-23, -11, 28, -9, 29]],
+          "type": "Polygon",
+          "properties": { "Id": 6, "Nbrhood": "Downtown",  "Events": "Roads maintenance - Delays expected",
+          "Constructions": "Trauma Hospital, Children Hospital",
+          "Hospital": "Trauma Hospital, Children Hospital"
+          }
+        },
+        {
+          "arcs": [[30, 31]],
+          "type": "Polygon",
+          "properties": { "Id": 7, "Nbrhood": "Wilson Forest",  "Events": "Roads_and_bridges Repair - Traffic delays",
+            "Constructions": "Himark Bridge",
+          "Bridge":"Himark Bridge" }
+        },
+        {
+          "arcs": [[32, 33, 34, 35, 36, 37, -31]],
+          "type": "Polygon",
+          "properties": { "Id": 8, "Nbrhood": "Scenic Vista","Events": "Roads maintenance",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[38, 39, 40, 41, 42, 43, -34]],
+          "type": "Polygon",
+          "properties": { "Id": 9, "Nbrhood": "Broadview", "Events": "Roads maintenance",
+            "Constructions": "Public School, Commpunity hospital",
+            "School":"Public School",
+            "Hospital": "Commpunity hospital"}
+        },
+        {
+          "arcs": [[44, 45, 46, -35, -44, 47, -42]],
+          "type": "Polygon",
+          "properties": { "Id": 10, "Nbrhood": "Chapparal", "Events": "Roads maintenance - Delays expected",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[-46, 48, 49, -37, 50]],
+          "type": "Polygon",
+          "properties": { "Id": 11, "Nbrhood": "Terrapin Springs","Events": "",
+            "Constructions": "Public School, Gold Care hospital",
+            "School":"Public School",
+            "Hospital":"Gold Care hospital"
+           }
+        },
+        {
+          "arcs": [[-49, 51, 52, -20, 53]],
+          "type": "Polygon",
+          "properties": { "Id": 12, "Nbrhood": "Pepper Mill","Events": "",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[-52, -45, 54, 55, 56, 57, 58]],
+          "type": "Polygon",
+          "properties": { "Id": 13, "Nbrhood": "Cheddarford","Events": "Roads maintenance - Delays expected",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[59, 60, -15, -22]],
+          "type": "Polygon",
+          "properties": { "Id": 14, "Nbrhood": "Easton","Events": "",
+            "Constructions": "Public School",
+            "School":"Public School"
+           }
+        },
+        {
+          "arcs": [[-61, 61, 62, -8, 63, -16]],
+          "type": "Polygon",
+          "properties": { "Id": 15, "Nbrhood": "Weston",  "Events": "",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[64, 65, -25, 66, -62]],
+          "type": "Polygon",
+          "properties": { "Id": 16, "Nbrhood": "Southton", "Events": "Roads maintenance",
+            "Constructions": "Eagleton Hospital",
+            "Hospital": "Eagleton Hospital"
+           }
+        },
+        {
+          "arcs": [[-27, 67, 68, 69, 70, -56, 71, -40, 72]],
+          "type": "Polygon",
+          "properties": { "Id": 17, "Nbrhood": "Oak Willow","Events": "",
+            "Constructions": "" }
+        },
+        {
+          "arcs": [[73, 74, -58, 75, -70, 76]],
+          "type": "Polygon",
+          "properties": { "Id": 18, "Nbrhood": "East Parton","Events": "Water-and-sewer Repair",
+            "Constructions": "Public School",
+            "School":"Public School"
+           }
+        },
+        {
+          "arcs": [[-74, 77, 78, -65, -60]],
+          "type": "Polygon",
+          "properties": { "Id": 19, "Nbrhood": "West Parton", "Events": "Water-and-sewer maintenance",
+            "Constructions": "Public School",
+            "School":"Public School"
+           }
+        }
+      ]
+    }
+  }
+}

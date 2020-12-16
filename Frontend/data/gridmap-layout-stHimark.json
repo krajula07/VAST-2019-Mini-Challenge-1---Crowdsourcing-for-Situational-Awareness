@@ -1,0 +1,135 @@
+[
+  {
+    "x": 2,
+    "y": 0,
+    "enName": "Palace Hills",
+    "Events": "Bridge repair - Delays expected",
+    "Constructions": "Friday Bridge, Magritte bridge, Himark General Hospital"
+  },
+  {
+    "x": 3,
+    "y": 0,
+    "enName": "NorthWest",
+    "Events": "",
+    "Constructions": ""
+  },
+  {
+    "x": 4,
+    "y": 0,
+    "enName": "Old Town",
+    "Events": "Water-and-sewer maintenance, Power outages lasting 30-60 minutes",
+    "Constructions": "Jade bridge, Public School, Old Town Hospital"
+  },
+  {
+    "x": 6,
+    "y": 1,
+    "enName": "Safe Town",
+    "Events": "Bridge repair - Delays expected",
+    "Constructions": "Always Safe nuclear power plant, Jade bridge,  12th of July Bridge"
+  },
+  {
+    "x": 2,
+    "y": 2,
+    "enName": "Southwest",
+    "Events": "Intermittent power outages.",
+    "Constructions": ""
+  },
+  {
+    "x": 3,
+    "y": 1,
+    "enName": "Down-town",
+    "Events": "Roads maintenance - Delays expected",
+    "Constructions": "Trauma Hospital, Children Hospital"
+  },
+  {
+    "x": 8,
+    "y": 2,
+    "enName": "Wilson Forest",
+    "Events": "Roads_and_bridges Repair - Traffic delays",
+    "Constructions": "Himark Bridge"
+  },
+  {
+    "x": 7,
+    "y": 4,
+    "enName": "Scenic Vista",
+    "Events": "Roads maintenance",
+    "Constructions": ""
+  },
+  {
+    "x": 4,
+    "y": 4,
+    "enName": "Broadview",
+    "Events": "Roads maintenance",
+    "Constructions": "Public School, Commpunity hospital"
+  },
+  {
+    "x": 5,
+    "y": 4,
+    "enName": "Chapparel",
+    "Events": "Roads maintenance - Delays expected",
+    "Constructions": ""
+  },
+  {
+    "x": 7,
+    "y": 3,
+    "enName": "Terrapin Springs",
+    "Events": "",
+    "Constructions": "Public School, Gold Care hospital"
+  },
+  {
+    "x": 7,
+    "y": 2,
+    "enName": "Pepper Mill",
+    "Events": "",
+    "Constructions": ""
+  },
+  {
+    "x": 6,
+    "y": 2,
+    "enName": "Cheddar-ford",
+    "Events": "Roads maintenance - Delays expected",
+    "Constructions": ""
+  },
+  {
+    "x": 5,
+    "y": 1,
+    "enName": "Easton",
+    "Events": "",
+    "Constructions": "Public School"
+  },
+  {
+    "x": 4,
+    "y": 1,
+    "enName": "Weston",
+    "Events": "",
+    "Constructions": ""
+  },
+  {
+    "x": 3,
+    "y": 2,
+    "enName": "Southton",
+    "Events": "Roads maintenance",
+    "Constructions": "Eagleton Hospital"
+  },
+  {
+    "x": 4,
+    "y": 3,
+    "enName": "Oak Willow",
+    "Events": "",
+    "Constructions": ""
+  },
+  {
+    "x": 5,
+    "y": 2,
+    "enName": "East Parton",
+    "Events": "Water-and-sewer Repair",
+    "Constructions": "Public School"
+  },
+  {
+    "x": 4,
+    "y": 2,
+    "enName": "West Parton",
+    "Events": "Water-and-sewer maintenance",
+    "Constructions": "Public School"
+  }
+]

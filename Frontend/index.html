@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>VAST 2019 - MC1</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <script
+      type="text/javascript"
+      src="https://code.jquery.com/jquery-1.11.3.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+    ></script>
+
+    <link rel="stylesheet" href="css/styles.css" />
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script
+      src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.7.0/moment.min.js"
+      type="text/javascript"
+    ></script>
+    <script src="scripts/map.js"></script>
+    <script src="scripts/api.js"></script>
+    <script type="module" src="scripts/densityChart.js"></script>
+    <script src="scripts/gridMap.js"></script>
+    <script src="scripts/stackedBarChart.js"></script>
+    <script type="module" src="scripts/ScatterPlot.js"></script>
+  </head>
+
+  <body>
+    <div id="wrapper">
+      <h3>VAST Challenge 2019 - Mini Challenge 1</h3>
+      <h5>Crowdsourcing for Situational Awareness</h5>
+      <hr style="width: 100%" />
+      <br />
+
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6 gridcol">
+            <button
+              id="map-power"
+              type="button"
+              class="btn btn-outline-primary"
+            >
+              Power
+            </button>
+            <button
+              id="map-buildings"
+              type="button"
+              style="margin-left: 10px"
+              class="btn btn-outline-primary"
+            >
+              Buildings
+            </button>
+            <button
+              id="map-medical"
+              type="button"
+              style="margin-left: 10px"
+              class="btn btn-outline-primary"
+            >
+              Medical
+            </button>
+            <button
+              id="map-shake"
+              type="button"
+              style="margin-left: 10px"
+              class="btn btn-outline-primary"
+            >
+              Shake
+            </button>
+            <button
+              id="map-sewer"
+              type="button"
+              style="margin-left: 10px"
+              class="btn btn-outline-primary"
+            >
+              Sewer
+            </button>
+            <button
+              id="map-roads"
+              type="button"
+              style="margin-left: 10px"
+              class="btn btn-outline-primary"
+            >
+              Roads
+            </button>
+            <br />
+            <div style="margin-top: 12px">
+              <input type="checkbox" id="bridges-checkbox" />
+              <span style="font-size: 15px">Bridges & PowerPlant</span>&nbsp;
+              &nbsp; <input type="checkbox" id="schools-hospitals" />
+              <span style="font-size: 15px">Schools & Hospitals</span>
+            </div>
+            <div></div>
+
+            <svg id="map"></svg>
+            <div
+              id="myModal"
+              class="modal fade modal-lg"
+              tabindex="-1"
+              role="dialog"
+            >
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title">
+                      Distribution of Reports and their Intensities for a
+                      Neighborhood
+                    </h5>
+                    <button
+                      type="button"
+                      class="close"
+                      data-dismiss="modal"
+                      aria-label="Close"
+                    >
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    <svg id="scatterplot"></svg>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 gridcol">
+            <h5>Top 6 damaged locations ranked by total intensity</h5>
+            <svg id="stackedbarchart"></svg>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12 gridcol">
+            <div style="text-align: center; font-size: 18px; font-weight: bold">
+              Number of reports over time
+            </div>
+            <svg id="densitychart" style="height: 250px"></svg>
+            <div class="row">
+              <div class="col-lg-5">
+                <div>
+                  <span style="padding-left: 100px">
+                    <button
+                      id="playbtn"
+                      type="button"
+                      class="btn btn-outline-primary"
+                    >
+                      Play
+                    </button>
+                    <button
+                      id="pausebtn"
+                      type="button"
+                      style="margin-left: 8px"
+                      class="btn btn-outline-primary"
+                    >
+                      Pause
+                    </button>
+                  </span>
+                </div>
+              </div>
+              <div class="col-lg-7">
+                Selected Time: <span id="selectedtime"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div
+            class="col-lg-12"
+            style="padding-top: 50px; margin-bottom: -50px"
+          >
+            <h3>Innovative Visualization: Heatmap on Gridmap</h3>
+          </div>
+          <svg id="gridmap" style="height: 1000px"></svg>
+        </div>
+        <div id="gridtooltip"></div>
+      </div>
+    </div>
+  </body>
+</html>
